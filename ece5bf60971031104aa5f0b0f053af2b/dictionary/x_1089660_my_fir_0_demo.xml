@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a06b3a0971031104aa5f0b0f053af8f" label="Demo" max_length="40" name="x_1089660_my_fir_0_demo" text_index="true" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Sex" max_length="40" name="sex" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="B" sequence="0" value="b"/>
+                <element inactive_on_update="false" label="A" sequence="1" value="a"/>
+            </choice>
+        </element>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>

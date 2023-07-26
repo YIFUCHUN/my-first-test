@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app my-first-test">b6f77724971031104aa5f0b0f053affe</applicability>
+        <list display_value="All">0ff7b724971031104aa5f0b0f053af17</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 01:52:39</sys_created_on>
+        <sys_id>07f7b724971031104aa5f0b0f053af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My First Test" source="x_1089660_my_fir_0">ece5bf60971031104aa5f0b0f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My First Test">ece5bf60971031104aa5f0b0f053af2b</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_07f7b724971031104aa5f0b0f053af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 01:52:39</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

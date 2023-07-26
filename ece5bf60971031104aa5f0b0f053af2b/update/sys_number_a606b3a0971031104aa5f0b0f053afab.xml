@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1089660_my_fir_0_demo">x_1089660_my_fir_0_demo</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 01:44:09</sys_created_on>
+        <sys_id>a606b3a0971031104aa5f0b0f053afab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEM</sys_name>
+        <sys_package display_value="My First Test" source="x_1089660_my_fir_0">ece5bf60971031104aa5f0b0f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My First Test">ece5bf60971031104aa5f0b0f053af2b</sys_scope>
+        <sys_update_name>sys_number_a606b3a0971031104aa5f0b0f053afab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 01:44:09</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="My First Test">0af77724b2103110d3c53555e446c711</page>
+        <required_translations>[ {
+  "message" : "New Demo",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 01:52:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0ef7772429103110df2dd17468e5ba14</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="My First Test" source="x_1089660_my_fir_0">ece5bf60971031104aa5f0b0f053af2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My First Test">ece5bf60971031104aa5f0b0f053af2b</sys_scope>
+        <sys_update_name>sys_ux_page_property_0ef7772429103110df2dd17468e5ba14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 01:52:42</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1089660_my_fir_0.0af77724b2103110d3c53555e446c711.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Demo"},"routeInfo":{"route":"record","fields":{"table":"x_1089660_my_fir_0_demo","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1089660_my_fir_0_demo","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0ef7772429103110df2dd17468e5ba14"/>
+</record_update>
